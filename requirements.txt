@@ -1,0 +1,27 @@
+# Antigrivity v0.2 — Agentic Sprint Planner
+# Core
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+
+# ML
+scikit-learn>=1.2.2
+joblib>=1.3
+shap>=0.42
+torch>=2.0.0
+
+# Graph & Network
+networkx>=3.0
+pyvis>=0.3.2
+
+# Embeddings (for developer similarity search)
+sentence-transformers>=3.0
+
+# LLM (Ollama)
+ollama>=0.4
+
+# Web UI
+streamlit>=1.30
+
+# Utilities
+scipy>=1.11
